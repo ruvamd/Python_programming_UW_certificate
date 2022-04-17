@@ -1,1 +1,1 @@
-# Python_programming_UW_certificate
+# UW Python programming certificate
